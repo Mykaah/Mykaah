@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Micah <img height="64" src="https://emoji.gg/assets/emoji/1222-ameri-pout.gif"></h1>
-<h3 align="center">A Passionate Product Manager and Research Scientist </h3>
+<h3 align="center">A Certified Product Manager and Research Scientist </h3>
 
  
  
@@ -11,11 +11,11 @@
 
 
 🌱 I have a mastery of tools such as **Notion, Trello, Atlassian Suite, Google Suite, and Figma**.
-✨✨I am very adaptive to new technologies. I’m currently learning **Solidity**, and improving on my **Python, and Javascript**
+✨✨I am very adaptive to new technologies. I’m currently learning **Solidity**, and improving on my **Python, and Javascript**.
 <br> </br>
 
 
-👯 I’m looking to collaborate on **web2 and web3 projects**
+👯 I’m looking to collaborate on **web2 and web3 projects**.
 <br> </br>
 
 
