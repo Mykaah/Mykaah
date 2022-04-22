@@ -3,7 +3,7 @@
 
  
  
-🔭 I’m currently working on fully transitioning to **Product Management**
+🔭 I am a **Biotech Engineer** taking on **Product Management**
 ✨✨I am user-centric, capable of understanding customer pain points, and able to work with different stakeholders (including third parties) to build user-centric products. 
 ✨✨Specifically, I have experience working as a product manager in an IOT Startup and currently, work as an associate product manager at a start-up. 
 ✨✨I have a range of experience across different industries, including Academia and Tech - doing **basic, applied, and development research**, and as a result, I have transferable skills that I'm certain to make me a perfect fit for product management roles.
