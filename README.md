@@ -11,7 +11,7 @@
 
 
 🌱 I have a mastery of tools such as **Notion, Trello, Atlassian Suite, Google Suite, and Figma**.
-✨✨I am very adaptive to new technologies. I’m currently learning **Solidity**, and improving on my **Python, Javascript, HTML5 and CSS3**
+✨✨I am very adaptive to new technologies. I’m currently learning **Solidity**, and improving on my **Python, and Javascript**
 <br> </br>
 
 
