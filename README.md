@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Micah <img height="64" src="https://emoji.gg/assets/emoji/1222-ameri-pout.gif"></h1>
-<h3 align="center">A passionate Product Manager and Research Scientist </h3>
+<h3 align="center">A Passionate Product Manager and Research Scientist </h3>
 
  
  
