@@ -23,7 +23,7 @@
 <br> </br>
 
 
-💞️ What I like to do: **I like to read, eat, volunteer, travel and watch animes**  
+💞️ What I like to do: **I like to read, eat, volunteer, travel and watch animes.**  
 <br> </br>
 
 
