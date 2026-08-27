@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Chinwe — a.k.a. Mykaah 👋</h1>
-<h3 align="center">Scientist → Investor · Building & backing the energy transition and the biocyclic economy</h3>
+<h1 align="center">Hi, I'm Chinwe Micah Gbeke — a.k.a. Mykaah 👋</h1>
+<h3 align="center">Scientist → Finance & Investment Banking · Building & backing the energy transition and the biocyclic economy</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/MBA-Finance%20%26%20Investment%20Banking-1B1F3B?style=for-the-badge" alt="MBA" />
@@ -12,11 +12,11 @@
 
 ### 🧭 About me
 
-I'm an interdisciplinary professional working at the intersection of **science, operations, and capital**. Trained as a microbiologist (BSc + MSc), I'm now building toward **investing** — because I don't just want to analyze companies, I want to **build them and back the people building them**.
+I'm an interdisciplinary professional working at the intersection of **science, operations, and capital**. Trained as a Biotech Engineer & Industrial microbiologist (BSc + MSc), I'm now building toward **Finance & investment banking** — because I don't just want to analyze companies, I want to **build them and back the people building them**.
 
 - ⚙️ **Operations & Automation** at an intermodal drayage carrier — improving how a real, physical logistics operation runs.
 - 🎓 **MBA candidate**, Finance & Investment Banking specialization — *Ahmadu Bello University*.
-- 📈 **CFA Level I candidate** (also FMVA® · Bloomberg Market Concepts) — building the rigor to value assets and price risk.
+- 📈 **CFA Level I candidate** (also FMVA®) — building the rigor to value assets and price risk.
 - 🔬 **MSc, Industrial & Food Microbiology** — biosurfactant optimization; the science lens I bring to technical due diligence.
 - 🤝 Drawn to **PE / VC** — I like to *build and support building.*
 
@@ -29,9 +29,9 @@ I'm an interdisciplinary professional working at the intersection of **science, 
 | Thread | Why it matters to me |
 |---|---|
 | **Energy · O&G · Renewables** | The defining capital-allocation problem of our era — from legacy assets to the transition |
-| **Sustainability & the biocyclic economy** | Circular, bio-based value creation — where my microbiology background is an edge |
+| **Sustainability & the biocyclic economy** | Circular, bio-based value creation — where my biotech engineering & industrial microbiology background is an edge |
 | **PE / VC** | Building companies and backing the founders and operators who build them |
-| **Operations + Science + Finance** | A rare stack: I read the ops, the science, *and* the numbers |
+| **Operations + Science + Finance** | My stack: I read the ops, the science, *and* the numbers |
 
 ---
 
