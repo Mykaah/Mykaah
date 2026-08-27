@@ -1,70 +1,70 @@
-<h1 align="center">👋 Hi there! I'm Micah <img height="64" src="https://emoji.gg/assets/emoji/1222-ameri-pout.gif"></h1>
-<h3 align="center">A Certified Product Manager and Research Scientist </h3>
+<h1 align="center">Hi, I'm Chinwe — a.k.a. Mykaah 👋</h1>
+<h3 align="center">Scientist → Investor · Building & backing the energy transition and the biocyclic economy</h3>
 
- 
- 
-🔭 I am a **Biotech Engineer** taking on **Product Management**
-✨✨I am user-centric, capable of understanding customer pain points, conversant with **Lean Agile methodologies,** and able to work with different stakeholders (including third parties) to build user-centric products. 
-✨✨Specifically, I have experience working as a product manager in an IOT Startup and currently, work as an associate product manager at a start-up. 
-✨✨I have a range of experience across different industries, including Academia and Tech - doing **basic, applied, and development research**, and as a result, I have transferable skills that I'm certain to make me a perfect fit for product management roles.
-<br> </br>
+<p align="center">
+<img src="https://img.shields.io/badge/MBA-Finance%20%26%20Investment%20Banking-1B1F3B?style=for-the-badge" alt="MBA" />
+<img src="https://img.shields.io/badge/CFA-Level%20I%20Candidate-0A3D62?style=for-the-badge" alt="CFA Level I" />
+<img src="https://img.shields.io/badge/Interest-PE%20%2F%20VC-6C3483?style=for-the-badge" alt="PE VC" />
+<img src="https://img.shields.io/badge/Focus-Energy%20%26%20Sustainability-2D6A4F?style=for-the-badge" alt="Energy" />
+</p>
 
+---
 
-🌱 I have a mastery of tools such as **Notion, Trello, Atlassian Suite, Google Suite, and Figma**.
-✨✨I am very adaptive to new technologies. I’m currently learning **Solidity**, and improving on my **Python, and Javascript**.
-<br> </br>
+### 🧭 About me
 
+I'm an interdisciplinary professional working at the intersection of **science, operations, and capital**. Trained as a microbiologist (BSc + MSc), I'm now building toward **investing** — because I don't just want to analyze companies, I want to **build them and back the people building them**.
 
-👯 I’m looking to collaborate on **web2 and web3 projects**.
-<br> </br>
+- ⚙️ **Operations & Automation** at an intermodal drayage carrier — improving how a real, physical logistics operation runs.
+- 🎓 **MBA candidate**, Finance & Investment Banking specialization — *Ahmadu Bello University*.
+- 📈 **CFA Level I candidate** (also FMVA® · Bloomberg Market Concepts) — building the rigor to value assets and price risk.
+- 🔬 **MSc, Industrial & Food Microbiology** — biosurfactant optimization; the science lens I bring to technical due diligence.
+- 🤝 Drawn to **PE / VC** — I like to *build and support building.*
 
+---
 
-📫 How to reach me: **micahgbeke@gmail.com**
-<br> </br>
+### 🎯 What I'm working toward
 
+> Allocating capital where the **energy transition** meets **operational reality** — using an operator's and a scientist's instincts to underwrite science-driven companies.
 
-💞️ What I like to do: **I like to read, eat, volunteer, travel and watch animes.**  
-<br> </br>
+| Thread | Why it matters to me |
+|---|---|
+| **Energy · O&G · Renewables** | The defining capital-allocation problem of our era — from legacy assets to the transition |
+| **Sustainability & the biocyclic economy** | Circular, bio-based value creation — where my microbiology background is an edge |
+| **PE / VC** | Building companies and backing the founders and operators who build them |
+| **Operations + Science + Finance** | A rare stack: I read the ops, the science, *and* the numbers |
 
+---
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+### 🛠️ Toolkit
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinwe-gbeke-kalagbor/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mykkaah)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micahgbeke@gmail.com)
-  
-</div>
+**Finance & Analysis**
+`Financial Modeling` · `3-Statement + DCF` · `Valuation & Comps` · `Equity Research` · `Advanced Excel`
 
+**Data & Programming**
+`Python` · `R` · `SQL` · `SPSS` · `Git / GitHub`
 
-<h3 align="center">Languages and Tools:</h3>
+**Selected self-directed projects**
+3-statement model + DCF (Nestlé Nigeria) · Equity research (GTBank Plc) · SPDC onshore-divestment systems analysis · Simulated equity portfolio (Sharpe, beta)
 
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://workspace.google.com/" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGnXocbWf2cf36J2MJBvfCrYDKIPC73Uo3Og-vJNo1WP8r7C7-5UvCRY2Sx7e2WaOGfd4&usqp=CAU" alt="G Suite" width="40" height="40"/> 
-  </a>
-  <a href="https://www.atlassian.com/" target="_blank"> 
-    <img src="https://i.pinimg.com/originals/2f/ae/07/2fae07df207a6bf91bea8d511a75fdba.png" alt="atlassian" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.notion.so/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/notion-1-1.svg" alt="notion" width="40" height="40"/> 
-  </a>
-  <a href="https://trello.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> 
-  </a>
+---
+
+### 🌱 Also building
+
+- 🚀 **Founder & Executive Director — [Uyono.org](https://uyono.org)** · democratizing data & finance education across Africa
+- 🧵 **Founder & Creative Director — Akaedo** · African textile innovation, sustainability & cultural economics
+- 📚 Currently: **CFA Level I** prep · **MBA** coursework · sharpening **Python** for automation
+
+---
+
+### 📫 Let's connect
+
+<p align="left">
+<a href="https://linkedin.com/in/chinwe-gbeke-kalagbor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:micahgbeke@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mykaah&show_icons=true&hide_border=true&theme=default" alt="Mykaah's GitHub Stats" />
 </p>
